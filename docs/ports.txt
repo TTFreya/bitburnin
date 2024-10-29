@@ -1,0 +1,3 @@
+[Port Range Index]
+x - Used by Init
+1x - Used by HWGW
